@@ -1,5 +1,5 @@
- .next/
-node_modules/
-/npm-debug.log
+awesome-kitties/.next
+node_modules
+npm-debug.log
 .DS_Store
-out/
+awesome-kitties/out
