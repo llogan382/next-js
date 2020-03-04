@@ -1,5 +1,5 @@
-awesome-kitties/.next
+.next
 node_modules
 npm-debug.log
 .DS_Store
-awesome-kitties/out
+out
